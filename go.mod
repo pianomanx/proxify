@@ -10,9 +10,9 @@ require (
 	github.com/projectdiscovery/dsl v0.0.2
 	github.com/projectdiscovery/fastdialer v0.0.2
 	github.com/projectdiscovery/gologger v1.0.1
-	github.com/projectdiscovery/mapsutil v0.0.1
+	github.com/projectdiscovery/mapsutil v0.0.2
 	github.com/projectdiscovery/tinydns v0.0.1
 	github.com/rs/xid v1.2.1
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 )
